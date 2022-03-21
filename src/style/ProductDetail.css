@@ -1,0 +1,14 @@
+.mainPD {
+  margin: 3rem 6rem 3rem 10rem;
+}
+
+.detailedSection {
+  display: flex;
+}
+
+.detailedImage {
+  height: 26rem;
+  border-radius: 5px;
+  padding-right: 1rem;
+}
+

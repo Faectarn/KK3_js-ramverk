@@ -1,0 +1,18 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12rem 8px 12rem;
+    border-bottom: solid black 2px;
+  }
+
+  .NavMenu {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 16rem;
+  }
+
+  .Navbar a:hover {
+    font-weight: bold;
+  }
